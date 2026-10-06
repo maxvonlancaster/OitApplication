@@ -1,0 +1,6 @@
+@OitApplication_HostAddress = http://localhost:5134
+
+GET {{OitApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
